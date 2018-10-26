@@ -1,7 +1,8 @@
 
 ![PyPI - Python Version](https://img.shields.io/pypi/pyversions/Django.svg)
+![GitHub watchers](https://img.shields.io/github/watchers/badges/shields.svg?style=social&logo=github&label=Watch)
 
-#Dynamic Time Warping in Python
+# Dynamic Time Warping in Python
 
 Author: Jeremy Stober
 Contact: stober@gmail.com
